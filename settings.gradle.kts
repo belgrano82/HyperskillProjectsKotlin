@@ -3,3 +3,4 @@ plugins {
 }
 rootProject.name = "HyperskillProjectsKotlin"
 include("CinemaRoomManager")
+include("SteganographyAndCryptography")
